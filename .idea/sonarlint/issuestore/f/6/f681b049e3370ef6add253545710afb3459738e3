@@ -1,0 +1,15 @@
+
+˜
+java:S1192"UDefine a constant instead of duplicating this literal " is an invalid input" 3 times.(Œ†ÌÚ8ğ¾¨Çª2J$a1d3652f-6cd6-4160-a462-df5a9c6e632e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ™¿¸8ñ¾¨Çª2J$078266a5-f563-4dc7-a0fd-72c8b9767526
+r	java:S106
+"+Replace this use of System.out by a logger.(òˆß¶ÿÿÿÿÿ8ù¾¨Çª2J$39583f6f-9c81-4e76-90bf-b3bf42a2b4d8
+m
+java:S1197"*Move the array designators [] to the type.(·øÍ8û¾¨Çª2J$b421763f-5752-4508-b6ce-fcb89b2e7e9f
+r	java:S106"+Replace this use of System.out by a logger.(¯ÔáÚÿÿÿÿÿ8ü¾¨Çª2J$0aedd9e0-4a73-46ba-9eb5-9f2cde2d93b1
+m	java:S106"+Replace this use of System.out by a logger.(Œ†ÌÚ8ü¾¨Çª2J$e4bdb398-71ae-49c6-ba53-6189a0d89452
+r	java:S106"+Replace this use of System.out by a logger.(±Úíâøÿÿÿÿ8ı¾¨Çª2J$1e2e0472-568a-4e7c-9ee0-d21a023ba053
+r	java:S106"+Replace this use of System.out by a logger.(ÆÙŠ½ÿÿÿÿÿ8ı¾¨Çª2J$dd1ce98b-ae8d-466b-bb44-ae4327a7a51f
+r	java:S106""+Replace this use of System.out by a logger.(ĞØµ»ûÿÿÿÿ8ı¾¨Çª2J$26d7393e-99f8-44be-a017-8c94c2c407a6
+n
+java:S1128"+Remove this unused import 'org.w3c.dom.ls'.(´ÂçĞ8ş¾¨Çª2J$b47c581b-bc78-4596-8d10-097d0f20c280

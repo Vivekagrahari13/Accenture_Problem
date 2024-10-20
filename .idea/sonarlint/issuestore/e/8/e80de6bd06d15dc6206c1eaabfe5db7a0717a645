@@ -1,0 +1,8 @@
+
+m	java:S106	"+Replace this use of System.out by a logger.(Ä³Ôš8‘¨åšþ1J$28204f6d-57ae-4f9c-8bdd-b7653d7996d8
+m	java:S106"+Replace this use of System.out by a logger.(á×È°8àáíšþ1J$1afe2316-4743-4208-ad2e-4d906b1ca9b3
+i
+java:S1905"&Remove this unnecessary cast to "int".(¥Ãóž8“¨åšþ1J$972cf151-8790-49a1-b6d8-5deefede27c2
+F	java:S106"+Replace this use of System.out by a logger.(²Þï	8¸Òîšþ1
+i
+java:S1905"&Remove this unnecessary cast to "int".(Éãò‚8“¨åšþ1J$9adcede7-6c82-457d-8258-979da958cf6b

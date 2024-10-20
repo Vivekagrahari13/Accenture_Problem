@@ -1,0 +1,10 @@
+
+
+java:S1192	"GDefine a constant instead of duplicating this literal "Total " 3 times.(°Ú’Ûúÿÿÿÿ8óÊª2J$9bcb6982-b13e-4f68-bbe8-9eb5d84adbbd
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ™¿¸J$a4c0fdbc-f02a-4588-9c97-7e3f64e3ff28
+r	java:S106	"+Replace this use of System.out by a logger.(°Ú’Ûúÿÿÿÿ8ø«œÊª2J$12cd5a84-fbc9-49a7-989b-fc38d6d8e11d
+r	java:S106"+Replace this use of System.out by a logger.(èâüÿÿÿÿÿ8¬óÊª2J$58b94e88-ddf8-41d5-9ffe-0e901a7e9451
+m	java:S106"+Replace this use of System.out by a logger.(ş·˜»8¬óÊª2J$30074c62-e671-452d-9295-22c3615f0eeb
+m	java:S106"+Replace this use of System.out by a logger.(®éÙ‚8­óÊª2J$02981acb-fb7a-44c1-94cc-c97d11e3e74b
+i
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8î’ŸÊª2J$b4a44b9f-671a-41a7-a0cb-088bea40d0cf

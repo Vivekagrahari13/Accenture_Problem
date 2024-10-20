@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ™¿¸8÷¨ûÌª2J$8b2f0fcb-d986-4325-8643-5c1eb04a861e
+m	java:S106"+Replace this use of System.out by a logger.(µ§ç•8Œ©ûÌª2J$0e5e5a06-dcbd-4d26-b9f8-322ae27727f7
+r	java:S106"+Replace this use of System.out by a logger.(æ¦±´øÿÿÿÿ8©ûÌª2J$88c043f9-45b8-427a-b620-bd50bfe44d38
+m	java:S106"+Replace this use of System.out by a logger.(üšä€8©ûÌª2J$d778e097-5804-4fa3-a437-fcc3dadf20dd
+m	java:S106"+Replace this use of System.out by a logger.(ó¥«¢8©ûÌª2J$b449f98b-1a14-494f-81e2-67f8e24798a8
+r	java:S106"+Replace this use of System.out by a logger.(ê¸•ãıÿÿÿÿ8©ûÌª2J$3e47da78-75e2-4e12-be78-51ddbe3c029b
+~	java:S125"<This block of commented-out lines of code should be removed.(Êşÿò8©ûÌª2J$ed9f7504-718a-402c-bebc-6311ac447885
+†
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(ÍØ’£úÿÿÿÿ8‘©ûÌª2J$41530382-2a92-4bc4-b290-a6a26cb1c826
+r	java:S106!"+Replace this use of System.out by a logger.(§ŠÍÿÿÿÿÿ8‘©ûÌª2J$ddb813dd-3f33-45e7-b348-a564c9f40041
+l	java:S106#"+Replace this use of System.out by a logger.(®Çñr8‘©ûÌª2J$18f11f7f-96c5-4387-9329-aaabccfd37e9
+‰
+java:S11266"AReplace this if-then-else statement by a single return statement.(Ü¯ÖÍıÿÿÿÿ8•©ûÌª2J$be824052-083c-4cf4-8772-dd025c6d1166

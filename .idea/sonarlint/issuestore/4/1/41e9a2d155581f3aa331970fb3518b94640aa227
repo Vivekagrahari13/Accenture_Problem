@@ -1,0 +1,8 @@
+
+‹
+java:S2583#"CChange this condition so that it does not always evaluate to "true"(»¼½ôşÿÿÿÿ8¨‹­è÷1J$7f48631b-bb34-436f-8b0d-cb6724328d37
+™
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8©‹­è÷1J$53543592-ed12-4c23-a345-0d6174eb2dcb
+´
+java:S1130	"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(§‰Ìıÿÿÿÿ8­‹­è÷1J$b9d77919-ccd5-4fa5-bb9d-01e13709a3f3
+r	java:S106-"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8±‹­è÷1J$825cc186-78e0-4fda-83c0-b02adea17647

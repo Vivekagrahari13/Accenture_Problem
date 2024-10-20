@@ -1,0 +1,7 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(¿çº¤ýÿÿÿÿ8³ìö©Œ2J$10c0a7be-3025-4e4e-ace1-1a0c59b8a2bc
+~	java:S125"<This block of commented-out lines of code should be removed.(ÐƒüÙ8äúƒªŒ2J$cc5aa21e-9bc8-413d-9736-1f06461afbe4
+t
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8ÂÇ„ªŒ2J$84eadb59-aab0-4769-be24-15aca897cf28
+v
+java:S1128"3Remove this unused import 'java.math.RoundingMode'.(¿ì†‹8ÂÇ„ªŒ2J$36d4fb75-1270-4d30-8d00-5dd471281376

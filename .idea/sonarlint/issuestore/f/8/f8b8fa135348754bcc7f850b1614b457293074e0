@@ -1,0 +1,6 @@
+
+x
+java:S1854+"5Remove this useless assignment to local variable "n".(¼ÃŠÑ8ï…½¢2J$1d8c58e0-53a7-407c-9ab3-d7ad4d4565f2
+i
+java:S1481+"&Remove this unused "n" local variable.(¼ÃŠÑ8’ï…½¢2J$de8bc5f1-65ab-41b0-a04b-cccecb0e99e2
+r	java:S106;"+Replace this use of System.out by a logger.(¸šñÙüÿÿÿÿ8•ï…½¢2J$823155a7-652f-45ef-a6ea-1bc4e2057ae6

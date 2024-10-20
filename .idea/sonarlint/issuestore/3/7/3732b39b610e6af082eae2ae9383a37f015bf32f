@@ -1,0 +1,9 @@
+
+Y
+java:S1854"7Remove this useless assignment to local variable "abc".(╗ера     8щ╣Л┬д2
+r	java:S106"+Replace this use of System.out by a logger.(цидЪ°    8ьЪК┬д2J$8149031f-bc55-489d-a33d-9d7a67e796b4
+r	java:S106	"+Replace this use of System.out by a logger.(ЪЧ░Н°    8ьЪК┬д2J$cef4a630-b526-4dac-8eaa-bb7b75dce05c
+m	java:S106
+"+Replace this use of System.out by a logger.(┴▀З▄8эЪК┬д2J$ca123e50-aaee-46b2-b3e4-016105a02cd7
+J
+java:S1481"(Remove this unused "abc" local variable.(╗ера     8ь╣Л┬д2
